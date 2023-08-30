@@ -1,3 +1,5 @@
+import { SETTINGS } from "../../settings/settings.js";
+
 export class Sprite {
   constructor(spriteUrl) {
     this.image = new Image();
